@@ -1,4 +1,4 @@
-# web-blog
+# Web Blog Project Manage Commands
 
 ## Project setup
 ```
